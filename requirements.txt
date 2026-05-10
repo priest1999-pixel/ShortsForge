@@ -1,9 +1,9 @@
 streamlit==1.45.1
 feedparser==6.0.11
 requests==2.32.3
-Pillow>=11.0.0
+Pillow>=11.3.0
 moviepy==1.0.3
 imageio==2.36.0
 imageio-ffmpeg==0.5.1
 edge-tts==6.1.12
-numpy<2.0
+numpy>=2.3.0
